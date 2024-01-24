@@ -1,0 +1,5 @@
+0 Buaya
+1 Chameleon
+2 Merpati
+3 Pipit
+4 Tokek
